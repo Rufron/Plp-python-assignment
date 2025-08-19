@@ -1,0 +1,4 @@
+This is a sample text file.
+It will be read by Python, converted to UPPERCASE,
+and then written into output.txt.
+File handling is fun!
